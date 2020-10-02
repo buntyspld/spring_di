@@ -1,10 +1,10 @@
-package spring_di.dependency.injection.example;
+package spring_di.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class DIApplicationTests {
 
 	@Test
 	void contextLoads() {
